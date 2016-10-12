@@ -10,10 +10,6 @@ build-vs2013/testlibqi.sdf
 *.gch
 *.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -25,7 +21,4 @@ build-vs2013/testlibqi.sdf
 *.a
 *.lib
 
-# Executables
-*.exe
-*.out
-*.app
+
